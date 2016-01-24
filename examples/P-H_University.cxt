@@ -1,0 +1,66 @@
+B
+
+15
+32
+Transaction part Revenue_Diversion
+Staff contract_party Educational_Institution
+Community_Objective destination Educational_Institution
+Emerging_Researcher's_Time source Educational_Institution
+Motivated_Staff realise Community_Objective
+Revenue_Diversion event_subject Established_Researcher's_Time
+Community_Objective source Community
+Transaction part Cash_Payment
+Transaction part Psychical_Stimulation
+Psychical_Stimulation event_subject Motivated_Staff
+Community contract_party Educational_Institution
+Cash_Payment event_subject Emerging_Researcher's_Time
+Emerging_Researcher's_Time destination Staff
+Established_Researcher's_Time source Educational_Institution
+null null Transaction
+I_*x8
+O_*x2
+Transaction
+Revenue_Diversion
+I_{*stf}@40%
+O_P-H_University
+Staff
+Educational_Institution
+I_{*cmtobj}
+Community_Objective
+I_*x3
+Emerging_Researcher's_Time
+I_*x1
+O_{*cmtobj}
+Motivated_Staff
+I_*x2
+O_*x5
+Established_Researcher's_Time
+O_*x4
+Community
+O_*x6
+Cash_Payment
+O_*x7
+Psychical_Stimulation
+I_*x7
+O_*x1
+I_*x4
+I_*x6
+O_*x3
+O_{*stf}@40%
+I_*x5
+O_*x8
+xxxx............................
+....xxxx........................
+.....x.xxx......................
+.....x.x..xx....................
+.........x..xxx.................
+...x...........xxx..............
+........xx........xx............
+x.x.................xx..........
+x.x...................xx........
+..............x........xxx......
+.....x.x...........x......x.....
+...........x.........x.....xx...
+......x...xx.................x..
+.....x.x.........x............x.
+...............................x
